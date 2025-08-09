@@ -1,2 +1,16 @@
 # BTC-Jornal
-Fiz este código que serve como um Jornal Mundial de Bitcoin,lendo e destacando mensagens embutidas no campo OP_Return.
+Este programa busca mensagens OP_RETURN na blockchain Bitcoin
+que começam com '/BJ' e as destaca como mensagens do BTC Jornal Mundial.
+As mensagens podem conter qualquer conteúdo, incluindo links.
+⚠️ Atenção: cuidado com links maliciosos e conteúdos não verificados.
+Use com responsabilidade.
+
+Motive o desenvolvedor: bc1qfvh7lwy7rrazsxdmdtjpx70ytjg3shgh6rtlm0
+---------------------------------------------------------------------------------
+This program searches for OP_RETURN messages on the Bitcoin blockchain
+that start with '/BJ' and highlights them as messages from the BTC World Journal.
+Messages can contain any content, including links.
+⚠️ Warning: be careful with malicious links and unverified content.
+Use responsibly.
+
+Support the developer: bc1qfvh7lwy7rrazsxdmdtjpx70ytjg3shgh6rtlm0
